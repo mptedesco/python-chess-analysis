@@ -1,6 +1,7 @@
 # python-chess-analysis
 
 The objective of this program is to generate an in depth game analysis
+
 In addition to engine centipawn evaluations this program also provides metrics related to:
 1) Material: Delta between sum of piece values for white and black
 2) Development: Delta between the number of pieces (not pawns) no longer on their starting squares 
