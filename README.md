@@ -1,5 +1,7 @@
 # python-chess-analysis
 
+NOTE - this is woefully out of date.  At some point I may make a new version.  At this point there are many other much more capable evaluation programs out there - but keeping it posted.
+
 The objective of this program is to generate an in depth game analysis
 
 In addition to engine centipawn evaluations this program also provides metrics related to:
